@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
-VMESS_WSPATH=${VMESS_WSPATH:-'/vmess'}
-VLESS_WSPATH=${VLESS_WSPATH:-'/vless'}
-TROJAN_WSPATH=${TROJAN_WSPATH:-'/trojan'}
-SS_WSPATH=${SS_WSPATH:-'/shadowsocks'}
+UUID=${UUID:-'f5a7c55a-cf19-4766-826a-07cce4c3c502'}
+VMESS_WSPATH=${VMESS_WSPATH:-'/vmess202305'}
+VLESS_WSPATH=${VLESS_WSPATH:-'/vless202305'}
+TROJAN_WSPATH=${TROJAN_WSPATH:-'/trojan202305'}
+SS_WSPATH=${SS_WSPATH:-'/shadowsocks202305'}
 
 # 哪吒三个参数，不需要的话可以留空，删除或在这三行最前面加 # 以注释
 NEZHA_SERVER= 
